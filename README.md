@@ -6,7 +6,7 @@ some useful scripts for optimization methods and game theory exam
 
 ## Bimatrix game
 
-```octave
+```Matlab
 C1 = [
     2   0   2
     1   3  -1
